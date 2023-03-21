@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000&text_color=FFCEFE&icon_color=FFE1E1&title_color=B1B2FF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000&text_color=000000&icon_color=FFE1E1&title_color=B1B2FF&hide_border=true)
 
 
 [![Solved.ac
